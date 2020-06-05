@@ -72,3 +72,19 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/InfinityBladeAdversaries/
+
+Content/InfinityBladeFireLands/
+
+Content/InfinityBladeGrassLands/
+
+Content/InfinityBladeIceLands/
+
+Content/InfinityBladeWeapons/
+
+Content/AdvancedMagicFX12/
+
+Content/AdvancedMagicFX13/
+
+Content/StarterContent/
